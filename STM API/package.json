@@ -1,5 +1,5 @@
 {
-  "name": "smart-task-manager-api",
+  "name": "STM-API",
   "version": "1.0.0",
   "description": "Smart Task Manager API",
   "main": "app.js",
