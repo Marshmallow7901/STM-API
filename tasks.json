@@ -1,0 +1,24 @@
+[
+  {
+    "id": "mg42jzs0roawzswueqh",
+    "title": "Dev",
+    "description": "Important task related to dev",
+    "due_date": "2025-09-11",
+    "completed": false,
+    "priority": "medium",
+    "recurrence": "none",
+    "created_at": "2025-09-28T19:04:44.256Z",
+    "updated_at": "2025-09-28T19:04:44.256Z"
+  },
+  {
+    "id": "mg41kbl5ywn7dmhmmgh",
+    "title": "Review error",
+    "description": "review code from two weeks ago",
+    "due_date": "2025-09-24",
+    "completed": false,
+    "priority": "high",
+    "recurrence": "daily",
+    "created_at": "2025-09-28T18:36:59.947Z",
+    "updated_at": "2025-09-28T18:36:59.947Z"
+  }
+]
